@@ -33,7 +33,7 @@ public class Atividade8_4_03 {
 		
 		System.out.println("\nO seu salário líquido é: " + deci.format(salarioLiquido));
 
-
+		leia.close();
 	}
 
 }

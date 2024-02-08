@@ -33,6 +33,7 @@ public class Atividade8_4_02 {
 		
 		System.out.println("\nSua média final, é: " + deci.format(mediaFinal));
 
+		leia.close();
 	}
 
 }

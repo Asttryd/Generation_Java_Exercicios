@@ -29,6 +29,7 @@ public class Atividade8_4_01 {
 		//ENTRADA: (Salário: 10000.00) (Abono: 1000.00); SAIDA: (11000.00)
 		//VARIÁVEIS DEVEM SER DO TIPO FLOAT
 
+		leia.close();
 	}
 
 }

@@ -33,7 +33,7 @@ public class Atividade8_4_04 {
 		
 		System.out.println("\nA diferença do produto entre o n1 e n2 pelo produto entre o n3 e n4 é: " + deci.format(resultado));
 		
-
+		leia.close();
 	}
 
 }
