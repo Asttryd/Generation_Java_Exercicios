@@ -6,17 +6,17 @@ public class Exercicio1019 {
 
 	public static void main(String[] args) {
 		Scanner leia = new Scanner(System.in);
-		
-		int valor, horas, minutos, segundos;
+
+		int valor, hrs, min, sg;
 		valor = leia.nextInt();
 		
-		horas = valor / 3600;
-		minutos = ((valor % 3600)/60);
-		segundos = valor % 60;
+		hrs = valor / 3600;
+		min = ((valor % 3600)/60);
+		sg = valor % 60;
 		
-		System.out.println(horas + ":" + minutos + ":" + segundos);
-		
+		System.out.println(hrs + ":" + min + ":" + sg);
 
+		leia.close();
 	}
 
 }

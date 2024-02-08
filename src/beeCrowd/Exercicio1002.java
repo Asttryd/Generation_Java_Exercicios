@@ -16,6 +16,9 @@ public class Exercicio1002 {
         area = 3.14159 * Math.pow(raio, 2);
         
         System.out.println("A="+ deci.format(area));
+        
+        leia.close();
+
 	}
 
 }
