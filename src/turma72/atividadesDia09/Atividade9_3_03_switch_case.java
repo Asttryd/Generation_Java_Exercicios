@@ -1,4 +1,4 @@
-package turma72;
+package turma72.atividadesDia09;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;

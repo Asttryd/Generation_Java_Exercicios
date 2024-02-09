@@ -1,4 +1,4 @@
-package turma72;
+package turma72.atividadesDia08;
 
 import java.util.Scanner;
 
